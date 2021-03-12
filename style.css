@@ -1,1 +1,69 @@
+body {
+  background-image: linear-gradient(to bottom, lavender, white, lavender);
+  color: rgba(83, 59, 77,);
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  margin: 10% 20%;
 
+}
+
+.contact {
+  font-size:14px;
+  border-top: 4px solid lavender;
+  border-bottom: 4px solid lavender;
+  background-color: rgba(400,400,400,.5);
+  padding: 2px
+}
+
+.header{
+  font-family: 'Lato', sans-serif;
+  color: rgba(34, 49, 63, 1);
+  font-size: 30px
+}
+
+.caption{
+  font-size:12px;
+}
+
+.experience-header {
+    text-align: left;
+    text-transform: uppercase;
+    padding:1px;
+    border-bottom: 2px solid lavender;
+    background-color: rgba(400,400,400,.25);
+}
+
+h4{
+  background-color: rgba(400,400,400,.2);
+  font-size:16px;
+  padding: 4px;
+}
+
+h5{
+  margin-left:10px;
+  border-bottom: 1px dashed black;
+  font-size: 14px;
+}
+  
+h6{
+  float: right;
+}
+
+ul {
+  font-size:14px;
+  padding:2px
+}
+li {
+  margin: 10px 0;
+}
+  
+p {
+  font-size:14px;
+  margin-left:10px;
+  margin-top:10px;
+}
+  
+.footer {
+    border-top: 1px dashed black;
+    font-size: 8px;
+    text-align: center;
+}
